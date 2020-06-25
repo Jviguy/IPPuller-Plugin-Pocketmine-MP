@@ -1,0 +1,11 @@
+---
+name: IPPuller
+version: 0.0.1
+main: JviguyGamesYT\IPPuller\Main
+api: 3.13.0
+commands:
+  pullip:
+    description: "Pulls The Ip Of a Player By Their Name"
+  pullallips:
+    description: "Pulls the IPS of All Players Online"
+...
